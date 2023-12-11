@@ -1,4 +1,3 @@
 # KnowledgeRealm
-Schema of KnowledgeRealm (UML)
-![knowledgerealm_structure](https://github.com/ochotzas/KnowledgeRealm/assets/74056187/5c7c4d37-0b4c-4339-afa9-6dfa78d499cb)
-# KnowledgeRealm
+
+To run this you need to have a google-services.json file and add it to the app folder that you get after making your firebase database.

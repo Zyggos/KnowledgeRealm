@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">KnowledgeRealm</string>
+    <string name="result">Result</string>
+    <string name="score">Score</string>
+
+    <string name="well_done">Well Done!</string>
+    <string name="button_to_go_to_leaderboard">Button to go to leaderboard</string>
+    <string name="button_to_go_to_home_screen">Button to go to home screen</string>
+    <string name="no_question_defined_yet_something_went_wrong">No question defined yet, something went wrong.</string>
+    <string name="no_answer">No answer</string>
+
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="already_registered">Already registered</string>
+    <string name="login_here">Login here</string>
+    <string name="email">Email</string>
+    <string name="welcome_to_KnowledgeRealm">Welcome to KnowledgeRealm</string>
+    <string name="play">Play</string>
+    <string name="leaderboards">LeaderBoards</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="not_registered_yet">Not registered yet</string>
+    <string name="register_here">Register here</string>
+
+    <string name="congratulate_text_perfect">You did perfect!</string>
+    <string name="congratulate_text_very_good">Very good!</string>
+    <string name="congratulate_text_great">You did great!</string>
+    <string name="congratulate_text_ok">You didn\'t do bad!</string>
+    <string name="congratulate_text_bad">You could do better!</string>
+
+    <!-- About Activity -->
+    <string name="extended_description">KnowledgeRealm is an exciting project developed as part of a course at the Computer Science Department of Aristotle University of Thessaloniki. The aim of this project is to provide a fun and engaging way for people to expand their knowledge and learn new things.</string>
+    <string name="app_details">App Details</string>
+    <string name="version">Version</string>
+    <string name="contact_us">Contact us</string>
+    <string name="send_us_an_email">Send us an email</string>
+    <string name="credits">Credits</string>
+    <string name="icons_by_icons8">Icons by Icons8</string>
+    <string name="about_page_library">About Page Library</string>
+    <string name="sound_effects_by_freesoundorg">Sound Effects by Freesound.org</string>
+    <string name="no_internet_connection_check_network_settings">No internet connection. Please check your network settings.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="ok">Ok</string>
+    <string name="settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="todo">TODO</string>
+
+    <string name="exit_gameplay">Exit Gameplay</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="are_you_sure_you_want_to_exit_gameplay">Are you sure you want to exit the gameplay?\n\nNotice the current score will not be kept if you do not answer all the questions!</string>
+    <string name="are_you_sure_you_want_to_exit_game">Are you sure you want to exit?\n\nTake on new challenges and improve your skills in your preferred category in settings.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="please_fill_in_the_details_below_to_create_your_account">Please fill in the details below to create your account.</string>
+    <string name="username_cap">USERNAME</string>
+    <string name="email_cap">EMAIL</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password_cap">PASSWORD</string>
+    <string name="login_account">Login Account</string>
+    <string name="please_log_in_to_continue">Please log in to continue</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="you_got_x_x_correct">You got x/x correct!</string>
+    <string name="no_username">no_username</string>
+    <string name="_0">0</string>
+</resources>
